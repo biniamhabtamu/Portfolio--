@@ -80,7 +80,7 @@ const SkillsSection = () => {
           
           <div className="flex flex-col md:flex-row justify-between items-center gap-8">
             <div className="text-center">
-              <div className="text-5xl font-bold text-white mb-2">5+</div>
+              <div className="text-5xl font-bold text-white mb-2">1+</div>
               <div className="text-slate-400">Years Experience</div>
             </div>
             
